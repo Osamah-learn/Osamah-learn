@@ -15,10 +15,3 @@
 
 [<img src="https://open.spotify.com/track/0q1YL8hfWM3knO1s0gdRKs?si=fecc2011adec4cb3" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk?si=a6723ea3602d483c)
 
-### Connect with me:
-
-[<img align="left" alt="osamah-dev.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CAEIpMDgPvimnXRzvv5ycKg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="osamah-amer-395a371b1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
