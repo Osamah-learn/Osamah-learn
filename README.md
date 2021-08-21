@@ -5,7 +5,7 @@
 
 ## I'm a web Developer!!
 
-- 🔭 I have been 14 years into the IT industry, around 2 years of learinig code  and get experience buy bulding projects .
+- 🔭 I have been 14 years into the IT industry, around 2 years of learinig code  and get experience by bulding projects .
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
