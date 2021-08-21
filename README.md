@@ -13,5 +13,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/track/0q1YL8hfWM3knO1s0gdRKs?si=fecc2011adec4cb3" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk?si=a6723ea3602d483c)
+[<img src="https://open.spotify.com/track/0q1YL8hfWM3knO1s0gdRKs?si=fecc2011adec4cb3" alt="Osamah-dev.tech Spotify Playing" width="350" />](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk?si=a6723ea3602d483c)
 
