@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=osamah-dev.tech&style=for-the-badge&url=https%3A%2F%2Fosamah-dev.tech)](https://osamah-dev.tech)
 
 
-## I'm a web Developer!!
+## I'm a junior fullstack web Developer!!
 
 - 🔭 I have been 14 years into the IT industry, around 2 years of learning code  and get experience by bulding projects .
 - 🌱 I’m currently learning everything 🤣
