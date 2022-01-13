@@ -8,7 +8,7 @@
 - 🔭 I have been 14 years into the IT industry, around 2 years of learning code  and get experience by bulding projects .
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love code,gym,streaming while playing games /
 
 ### Spotify Playing 🎧
