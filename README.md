@@ -13,5 +13,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-headphone-music-logo-and-icon-design-template-png-image_3555906.jpg" alt="Osamah-dev.tech Spotify Playing" width="350" />](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk?si=a6723ea3602d483c)
+[<img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-headphone-music-logo-and-icon-design-template-png-image_3555906.jpg" alt="Osamah-dev.tech Spotify Playing" width="100" height="100" />](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk?si=a6723ea3602d483c)
 
