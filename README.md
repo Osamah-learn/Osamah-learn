@@ -1,4 +1,4 @@
-### Hi there, I'm Osamah - NickName (Osku) [osamah-dev.tech][website] 👋
+### Hi there, I'm Osamah a Software Engineer student at Metropolia UAS Espoo, Finland - NickName (Osku) [osamah-dev.tech][website] 👋
 
 [![Website](https://img.shields.io/website?label=osamah-dev.tech&style=for-the-badge&url=https%3A%2F%2Fosamah-dev.tech)](https://osamah-dev.tech)
 
